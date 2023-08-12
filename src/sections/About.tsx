@@ -28,7 +28,7 @@ function About() {
       <div className="about-grid">
         <div className="about-grid-info">
           <p className="about-grid-info-text">
-          I&apos;m a passionate software & web developer who thrives on turning innovative ideas into functional and visually appealing digital experiences. With a foundation in coding and an eye for design, I specialize in crafting user-friendly websites that not only look great but also provide seamless and engaging interactions. From front-end magic to back-end wizardry, I'm committed to creating online solutions that leave a lasting impression. Welcome to my portfolio!&nbsp;
+          I&apos;m a passionate software & web developer who thrives on turning innovative ideas into functional and visually appealing digital experiences. With a foundation in coding and an eye for design, I specialize in crafting user-friendly websites that not only look great but also provide seamless and engaging interactions. From front-end magic to back-end wizardry, I&apos;m committed to creating online solutions that leave a lasting impression. Welcome to my portfolio!&nbsp;
           </p>
           <p className="about-grid-info-text">
             
