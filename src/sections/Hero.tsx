@@ -39,7 +39,7 @@ function Hero() {
           delay: 1.05,
         }}
       >
-       I do <mark>hard</mark> things.
+       I am a Software Engineer
       </motion.h3>
       <motion.p
         className="hero-text"
