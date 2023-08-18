@@ -78,7 +78,7 @@ function Hero() {
       >
         <Button
           text="Check out my Resume"
-          link="https://drive.google.com/file/d/1GGHkNgorGaBTEoy_y67KwE4ym4Tq0Zeq/view?usp=sharing"
+          link="https://docs.google.com/document/d/1xGvSXE136lmqqNbIuHGMFR1qw8BgL6n3lVht73F9AwU/edit?usp=sharing"
         />
       </motion.div>
     </div>
